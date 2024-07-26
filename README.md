@@ -32,7 +32,7 @@
 
 <h2>👨‍💻 Certifications :</h2>
 
-🌱 <b>Cybersecurity and Digital Marketing certifications</b>
+- <b>Cybersecurity and Digital Marketing certifications</b>
   ⚡ [Google: Search Ads Certification](https://bitly.cx/W9cfe)
   ⚡ [Google: Display Ads Certification)](https://bitly.cx/31xg1)
   ⚡ [Google: (Foundations of Cybersecurity)](https://coursera.org/share/3a3aef116ad0289140525e47ebe08bfb)
