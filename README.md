@@ -30,18 +30,15 @@
 </p>
 
 
-<h1>Hi, A bit about Eugene! <br/><a href="https://github.com/Eugeneagoh/EugeneAgoh">Programmer</a>, <a href="https://www.linkedin.com/in/eugeneagoh/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UC4CeJ3epKmkdrFKk-kSDSIA">YouTuber</a></h1>
+<h1>Hi, A bit about Eugene! <br/><a href="https://github.com/Eugeneagoh/EugeneAgoh">Digital Marketing Professional</a>, <a href="https://www.linkedin.com/in/eugeneagoh/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UC4CeJ3epKmkdrFKk-kSDSIA">YouTuber</a></h1>
 
 <h2>👨‍💻 Certifications :</h2>
 
 - <b>PowerShell</b>
   - [Google Search Ads Certification](https://bitly.cx/W9cfe)
   - [Google Display Ads Certification)](https://bitly.cx/31xg1)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
-
-
+  - [Google (Foundations of Cybersecurity)](https://coursera.org/share/3a3aef116ad0289140525e47ebe08bfb)
+  - [Google (FPay it Safe: Manage Cybersecurity Risks)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
