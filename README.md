@@ -14,7 +14,7 @@
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :boom: Our Business Website [MY WEBSITE](https://adstargets.com).
 <br>
 
 
@@ -30,7 +30,7 @@
 </p>
 
 
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/eugeneagoh/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Eugene! <br/><a href="https://github.com/Eugeneagoh/EugeneAgoh">Programmer</a>, <a href="https://www.linkedin.com/in/eugeneagoh/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UC4CeJ3epKmkdrFKk-kSDSIA">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -52,11 +52,11 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Google Search Ads Tips](https://www.youtube.com/watch?v=r1CLZcypfuo)
+- [How to get 10K Free Organic Traffic](https://www.youtube.com/watch?v=UkVmkSuOG18)
+- [Boost Online Visibility with Video Marketing](https://www.youtube.com/watch?v=FnW-PjhZC2s)
+- [12 Must Do Launching Search Ads](https://www.youtube.com/watch?v=YPY0HbV2L1g)
+- [Demystifying Digital Advertising Acronyms](https://www.youtube.com/watch?v=t1SbjngbOGo)
 
 
 - 🔭 I’m currently working on ...
