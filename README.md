@@ -35,10 +35,10 @@
 <h2>👨‍💻 Certifications :</h2>
 
 - <b>PowerShell</b>
-  - [Google Search Ads Certification](https://bitly.cx/W9cfe)
-  - [Google Display Ads Certification)](https://bitly.cx/31xg1)
-  - [Google (Foundations of Cybersecurity)](https://coursera.org/share/3a3aef116ad0289140525e47ebe08bfb)
-  - [Google (FPay it Safe: Manage Cybersecurity Risks)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Google: Search Ads Certification](https://bitly.cx/W9cfe)
+  - [Google: Display Ads Certification)](https://bitly.cx/31xg1)
+  - [Google: (Foundations of Cybersecurity)](https://coursera.org/share/3a3aef116ad0289140525e47ebe08bfb)
+  - [Google: (FPay it Safe: Manage Cybersecurity Risks)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
