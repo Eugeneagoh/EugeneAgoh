@@ -28,7 +28,7 @@
 </p>
 
 
-<h1>Hi, A bit about Eugene! <br/><a href="https://github.com/Eugeneagoh/EugeneAgoh">Digital Marketing Professional</a>, <a href="https://www.linkedin.com/in/eugeneagoh/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UC4CeJ3epKmkdrFKk-kSDSIA">YouTuber</a></h1>
+<h1>Hi, A bit about Eugene! <br/><a href="https://github.com/Eugeneagoh/EugeneAgoh">Digital Marketing Professional | </a>, <a href="https://www.linkedin.com/in/eugeneagoh/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UC4CeJ3epKmkdrFKk-kSDSIA">YouTuber</a></h1>
 
 <h2>👨‍💻 Certifications :</h2>
 
