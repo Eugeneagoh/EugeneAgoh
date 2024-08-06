@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Eugene Agoh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Few+5+Years+In+Cyber+Security;Founder+AdsTargets;Cyber+Security+Professional+Developer+Digital+Marketing+Proffesional;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=5+Years+In+Cyber+Security;Founder+AdsTargets;Cyber+Security+Professional + |+Developer+Digital+Marketing+Proffesional;Always+learning+new+things"></a>
 </p>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -28,7 +28,7 @@
 </p>
 
 
-<h1>Hi, A bit about Eugene! <br/><a href="https://github.com/Eugeneagoh/EugeneAgoh">Digital Marketing Professional | </a>, <a href="https://www.linkedin.com/in/eugeneagoh/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UC4CeJ3epKmkdrFKk-kSDSIA">YouTuber</a></h1>
+<h1>Hi, A bit about Eugene! <br/><a href="https://github.com/Eugeneagoh/EugeneAgoh">Digital Marketing Professional </a>, <a href="https://www.linkedin.com/in/eugeneagoh/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UC4CeJ3epKmkdrFKk-kSDSIA">YouTuber</a></h1>
 
 <h2>👨‍💻 Certifications :</h2>
 
